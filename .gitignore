@@ -39,3 +39,5 @@ appsettings.Production.json
 
 # Configurações do dotnet cache
 .docker/
+
+*nuget.config
