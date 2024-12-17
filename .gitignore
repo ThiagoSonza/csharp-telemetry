@@ -1,0 +1,41 @@
+# Pasta bin e obj geradas pelo build
+bin/
+obj/
+
+# Configurações específicas do Visual Studio
+.vs/
+.vscode/
+
+# Configurações de build do Rider
+.idea/
+
+# Dependências de pacotes do NuGet
+packages/
+*.nupkg
+
+# Arquivos de configuração específicos de ambiente
+appsettings.Development.json
+appsettings.Production.json
+
+# Arquivos de usuário do Visual Studio
+*.user
+*.suo
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# Arquivos de configuração do VSCode
+.vscode/
+
+# Logs e relatórios
+*.log
+
+# Diretórios de cache
+~/.microsoft/
+
+# Pasta de cache do SDK .NET
+~/.nuget/
+
+# Configurações do dotnet cache
+.docker/
